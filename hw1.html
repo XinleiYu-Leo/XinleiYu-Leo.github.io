@@ -1,0 +1,85 @@
+<hr />
+<p>title: | CS 474/574 Machine Learning<br />
+HW1<br />
+author: | Xinlei Yu<br />
+Dept. of Computer Science<br />
+Iowa State University<br />
+Ames, IA, USA<br />
+date:  header-includes: |</p>
+<hr />
+<h1 id="warm-up">Warm Up</h1>
+<ul>
+<li><p>Newton’s First Law of Motion First law states that every object will remain at rest or in uniform motion in a straight line unless compelled to change its state by the action of an external force.</p></li>
+<li><p>The second one is Einstein’s mass-energy equation E = mc2, equation in German-born physicist Albert Einstein’s theory of special relativity that expresses the fact that mass and energy are the same physical entity and can be changed into each other.</p></li>
+<li><p>The time complexity of Quicksort on average in Big-O notation Average performance: O(n log n)</p></li>
+</ul>
+<hr />
+<div style="page-break-after: always;">
+
+</div>
+<p>Three types of Machine Learning</p>
+<ul>
+<li>Supervised, finding <span class="math inline"><em>f̂</em>(<em>x</em>) ≈ <em>f</em>(<em>x</em>)</span> with ground truth provided by human</li>
+<li>Unsupervised, finding <span class="math inline"><em>f̂</em>(<em>x</em>)</span> without ground truth</li>
+<li>Reinforcement, let the machine find ground truth itself</li>
+</ul>
+<div style="page-break-after: always;">
+
+</div>
+<h1 id="we-now-want-to-build-an-ml-model-that-predicts-the-profitability-of-a-retail-kiosk-in-the-mall.-because-different-types-of-businesses-generate-cash-flows-differently-e.g.-an-coffee-kiosk-probably-makes-less-money-than-a-one-selling-smartphones.-if-we-use-one-hot-encoding-to-turn-kiosk-types-into-binary-vectors-and-we-have-5-categories-of-kiosks-what-is-the-minimal-dimension-of-the-vector">We now want to build an ML model that predicts the profitability of a retail kiosk in the mall. Because different types of businesses generate cash flows differently, e.g., an coffee kiosk probably makes less money than a one selling smartphones. If we use one-hot encoding to turn kiosk types into binary vectors, and we have 5 categories of kiosks, what is the minimal dimension of the vector?</h1>
+<pre><code>We have 5 types of kiosks that would make the width of the vector 5. 
+To use one-hot encoding we will have 6 in the term of the depth. 
+This will looks like following grid.</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th>Kiosk1</th>
+<th>Kiosk2</th>
+<th>Kiosk3</th>
+<th>Kiosk4</th>
+<th>Kiosk5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;">
+
+</div>
+<h1 id="to-do-question-5">To Do question 5</h1>
+<p>Github something and markdowm—&gt; html js</p>
