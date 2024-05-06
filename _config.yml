@@ -12,7 +12,7 @@ title                    : "Xinlei's HomePage"
 title_separator          : "-"
 name                     : &name "Xinlei Yu"
 description              : &description "personal description"
-url                      : https://xinleiyuleo.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xinleiyuleo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XinleiYu-Leo/XinleiYu-Leo.github.io"
 
@@ -21,10 +21,10 @@ repository               : "XinleiYu-Leo/XinleiYu-Leo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/XinleiYu-Leo/XinleiYu-Leo.github.io/blob/master/images/xinlei.png"
+  avatar           : "/blob/master/images/xinlei.png"
   name             : "Xinlei Yu (Leo)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postgraduate research assistant"
   location         : "Los Angeles, CA"
   employer         : "University of Southern California"
   uri              : # URL
