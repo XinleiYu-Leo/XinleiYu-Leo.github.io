@@ -21,7 +21,7 @@ repository               : "XinleiYu-Leo/XinleiYu-Leo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/blob/master/images/xinlei.png"
+  avatar           : "/images/xinlei.png"
   name             : "Xinlei Yu (Leo)"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate research assistant"
