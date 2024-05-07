@@ -26,3 +26,23 @@ Xinlei is a postgraduate research assistant at the HaVRI Lab, directed by Dr. He
 |:------------------:|:---------------------------|
 |<div style="width:50%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="400" width="280" />       </div>      | I'm working on a haptic project that investigates the human perception and emotional state to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.      |
 |<div style="width:50%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/eeg_loop.png" alt="eeg Image" height="250" width="500" />      </div>       | <div style="width:50%">Currently, I'm working on a project that investigates enhancing EEG-based emotion recognition by applying Kalman filtering and smoothing techniques to EEG data from the public SEED dataset. <strong>The ultimate goal is to improve the evaluation of perceptual properties and human-computer interaction by enabling more precise quantification of human emotional states through EEG signal processing.</strong>   </div>  |
+
+
+
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+  </tr>
+  <tr>
+    <td style="width:30%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="400" width="280" /></td>
+    <td style="width:50%">Row 1, Cell 2</td>
+    <td style="width:20%">Row 1, Cell 3</td>
+  </tr>
+  <tr>
+    <td style="width:30%">Row 2, Cell 1</td>
+    <td style="width:50%"><img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/></td>
+    <td style="width:20%">Row 2, Cell 3</td>
+  </tr>
+</table>
