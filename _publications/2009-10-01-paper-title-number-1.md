@@ -1,12 +1,5 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+| <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/>         | **Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:** Presented at the recent [SCR'23](https://sites.uci.edu/scr2023/schedule/)   <br><br> **Xinlei Yu**, Xin Zhu, Xiaopan Zhang and Heather Culbertson    <br><br> [[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)] |
+| <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg" alt="drawing" height="200" width="400"/>     | <strong>Tummy Time Toy</strong>: An Infant Learning Toy      <br> Demo at NSF DARE'23   <br><br> **Xinlei Yu**, Arya Salgaonkar, Stacey Dusing and Francisco Valero-Cuevas               <br><br> [[Demo Video](https://youtu.be/6PznLd5wy5c)] [[Pilot Study Video](https://youtu.be/JgYYosFgYtE)]|
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+[SCR_Pre_Image]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png "scr"
