@@ -38,18 +38,11 @@ Xinlei is a postgraduate research assistant at the HaVRI Lab, directed by Dr. He
 
 <table>
   <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-    <th>Column 3</th>
+    <td style="width:40%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="400" width="280" /></td>
+    <td style="width:60%">I'm working on a haptic project that investigates the human perception and emotional state to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory. </td>
   </tr>
   <tr>
-    <td style="width:30%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="400" width="280" /></td>
-    <td style="width:50%">Row 1, Cell 2</td>
-    <td style="width:20%">Row 1, Cell 3</td>
-  </tr>
-  <tr>
-    <td style="width:30%">Row 2, Cell 1</td>
-    <td style="width:50%"><img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/></td>
-    <td style="width:20%">Row 2, Cell 3</td>
+    <td style="width:40%"><img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/></td>
+    <td style="width:60%"> **Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:** Presented at the recent [SCR'23](https://sites.uci.edu/scr2023/schedule/)   <br><br> **Xinlei Yu**, Xin Zhu, Xiaopan Zhang and Heather Culbertson    <br><br> [[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)]</td>
   </tr>
 </table>
