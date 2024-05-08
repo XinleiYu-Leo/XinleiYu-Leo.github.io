@@ -53,12 +53,22 @@ Demo at NSF DARE'23
 # Ongoing Research Project 
 
 <table>
-  <tr>
-    <td style="width:40%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="400" width="280" /></td>
-    <td style="width:60%">I'm working on a haptic project that investigates the human perception and emotional state of <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory. </td>
-  </tr>
-  <tr>
-    <td style="width:40%"><img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/></td>
-    <td style="width:60%"> **Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:** Presented at the recent [SCR'23](https://sites.uci.edu/scr2023/schedule/)   <br><br> **Xinlei Yu**, Xin Zhu, Xiaopan Zhang and Heather Culbertson    <br><br> [[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)]</td>
-  </tr>
+<tr>
+<td style="width:40%">
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="310" width="200" />
+</td>
+<td style="width:60%">
+We are working on a haptic project investigating the human perception and emotional state of <strong>electro-tactile stimulation</strong>. 
+</td>
+</tr>
+<tr>
+<td style="width:40%">
+TODO Drone
+</td>
+<td style="width:60%">
+TODO Write descriotion
+</td>
+</tr>
 </table>
+
+
