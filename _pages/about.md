@@ -36,4 +36,20 @@ Xinlei is a postgraduate research assistant at the HaVRI Lab, directed by Dr. He
 
 
 
-
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+  </tr>
+  <tr>
+    <td style="width:30%"> <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" height="400" width="280" /></td>
+    <td style="width:50%">Row 1, Cell 2</td>
+    <td style="width:20%">Row 1, Cell 3</td>
+  </tr>
+  <tr>
+    <td style="width:30%">Row 2, Cell 1</td>
+    <td style="width:50%"><img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/></td>
+    <td style="width:20%">Row 2, Cell 3</td>
+  </tr>
+</table>
