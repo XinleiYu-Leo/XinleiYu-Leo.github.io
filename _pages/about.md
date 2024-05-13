@@ -50,14 +50,6 @@ Demo at NSF DARE'23
 </table>
 
 
-# Past Research Project 
-
-|:-------------------------:|:---------------------------|
-|  <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/electro_diagram.png" alt="drawing2" height="250" width="500"/>        |**Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.  <br><br> [[Github(partially available)](https://github.com/xinleiyuUSC/MAB_UCB)] |
-| <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png" alt="drawing2" height="250" width="500"/>                | **Tummy Time Toy:** A computer vision-based infant motor learning assistant toy (under US Patent review). This interactive toy rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. The primary goal is to study whether babies can learn to control their bodies during tummy time with the toy's assistance, aiding in muscle control and increasing their tolerance for tummy time.   <br><br> [[video](https://youtu.be/6PznLd5wy5c)] [Github(available soon)]  |
-| <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ASL.jpg" alt="drawing3" height="250" width="500"/>                | **American Sign Language:** we present an alphabet translator for American Sign Language (ASL), deploying Convolutional Neural Networks (CNN) and Residual Neural Networks (ResNet) to classify RGB images of ASL alphabet hand gestures. We meticulously tuned hyperparameters to ensure high training accuracy and solid test performance.   <br><br> [[paper](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/ASL_Paper.pdf)] [[Github](https://github.com/xinleiyuUSC/ASL_Project/tree/main)]  |
-
-
 # Fun Project 
 
 <table>
@@ -81,4 +73,39 @@ VR Dressing Room
 <a href="https://youtube.com/shorts/3uVC-7T6mHI?feature=share">[Demo Video]</a>
 </td>
 </tr>
+</table>
+
+# Past Research Project 
+
+<table>
+  <tr>
+    <td style="width:40%">
+      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/electro_diagram.png" alt="drawing2" height="250" width="500"/>
+    </td>
+    <td style="width:60%">
+      <strong>Multi-armed bandit-based calibration for Electro-tactile Simulation:</strong> Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.
+      <br><br>
+      <a href="https://github.com/xinleiyuUSC/MAB_UCB">[Github(partially available)]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:40%">
+      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png" alt="drawing2" height="250" width="500"/>
+    </td>
+    <td style="width:60%">
+      <strong>Tummy Time Toy:</strong> A computer vision-based infant motor learning assistant toy (under US Patent review). This interactive toy rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. The primary goal is to study whether babies can learn to control their bodies during tummy time with the toy's assistance, aiding in muscle control and increasing their tolerance for tummy time.
+      <br><br>
+      <a href="https://youtu.be/6PznLd5wy5c">[video]</a> [Github(available soon)]
+    </td>
+  </tr>
+  <tr>
+    <td style="width:40%">
+      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ASL.jpg" alt="drawing3" height="250" width="500"/>
+    </td>
+    <td style="width:60%">
+      <strong>American Sign Language:</strong> we present an alphabet translator for American Sign Language (ASL), deploying Convolutional Neural Networks (CNN) and Residual Neural Networks (ResNet) to classify RGB images of ASL alphabet hand gestures. We meticulously tuned hyperparameters to ensure high training accuracy and solid test performance.
+      <br><br>
+      <a href="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/ASL_Paper.pdf">[paper]</a> <a href="https://github.com/xinleiyuUSC/ASL_Project/tree/main">[Github]</a>
+    </td>
+  </tr>
 </table>
