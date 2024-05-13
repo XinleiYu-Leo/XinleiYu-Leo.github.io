@@ -58,7 +58,7 @@ Demo at NSF DARE'23
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="300" width="450" />
 </td>
 <td style="width:60%">
-Quest Controlled CrazyFlie Hand Tracking System
+<strong>Quest Controlled CrazyFlie Hand Tracking System</strong>
 <br>
 <a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a> <a href="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png">[System Diagram]</a> 
 </td>
@@ -68,7 +68,7 @@ Quest Controlled CrazyFlie Hand Tracking System
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/VR_DressingRoom.png" alt="VR Room Image" height="300" width="450" />
 </td>
 <td style="width:60%">
-VR Dressing Room 
+<strong>VR Dressing Room</strong>
 <br>
 <a href="https://youtube.com/shorts/3uVC-7T6mHI?feature=share">[Demo Video]</a>
 </td>
