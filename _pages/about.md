@@ -92,7 +92,7 @@ Quest Controlled CrazyFlie Hand Tracking System
 <td style="width:60%">
 VR Dressing Room 
 <br>
-<a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a>
+<a href="https://youtube.com/shorts/3uVC-7T6mHI?feature=share">[Demo Video]</a>
 </td>
 </tr>
 </table>
