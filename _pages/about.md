@@ -50,6 +50,9 @@ Demo at NSF DARE'23
 </table>
 
 
+<br>
+<br>
+
 # Fun Project 
 
 <table>
@@ -74,6 +77,9 @@ Demo at NSF DARE'23
 </td>
 </tr>
 </table>
+
+<br>
+<br>
 
 # Past Research Project 
 
