@@ -77,20 +77,22 @@ TODO Write descriotion
 <table>
 <tr>
 <td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="200" width="300" />
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="300" width="450" />
 </td>
 <td style="width:60%">
 Quest Controlled CrazyFlie Hand Tracking System
-<br><br>
+<br>
 <a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a>
 </td>
 </tr>
 <tr>
 <td style="width:40%">
-TODO Drone
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/VR_DressingRoom.png" alt="VR Room Image" height="300" width="450" />
 </td>
 <td style="width:60%">
-TODO Write descriotion
+VR Dressing Room 
+<br>
+<a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a>
 </td>
 </tr>
 </table>
