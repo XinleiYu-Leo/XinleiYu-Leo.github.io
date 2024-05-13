@@ -51,7 +51,6 @@ Demo at NSF DARE'23
 
 
 <br>
-<br>
 
 # Fun Project 
 
@@ -78,7 +77,6 @@ Demo at NSF DARE'23
 </tr>
 </table>
 
-<br>
 <br>
 
 # Past Research Project 
