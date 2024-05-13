@@ -82,7 +82,7 @@ TODO Write descriotion
 <td style="width:60%">
 Quest Controlled CrazyFlie Hand Tracking System
 <br>
-<a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a>
+<a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a> <a href="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png">[System Diagram]</a> 
 </td>
 </tr>
 <tr>
