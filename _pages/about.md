@@ -72,3 +72,25 @@ TODO Write descriotion
 </table>
 
 
+# Fun Project 
+
+<table>
+<tr>
+<td style="width:40%">
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="200" width="300" />
+</td>
+<td style="width:60%">
+Quest Controlled CrazyFlie Hand Tracking System
+<br><br>
+<a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a>
+</td>
+</tr>
+<tr>
+<td style="width:40%">
+TODO Drone
+</td>
+<td style="width:60%">
+TODO Write descriotion
+</td>
+</tr>
+</table>
