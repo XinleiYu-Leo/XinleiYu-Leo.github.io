@@ -57,7 +57,7 @@ Demo at NSF DARE'23
 <table>
 <tr>
 <td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="300" width="450" />
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="400" width="450" />
 </td>
 <td style="width:60%">
 <strong>Quest Controlled CrazyFlie Hand Tracking System</strong>
@@ -94,7 +94,7 @@ Demo at NSF DARE'23
   </tr>
   <tr>
     <td style="width:40%">
-      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png" alt="drawing2" height="250" width="500"/>
+      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png" alt="drawing2" height="200" width="400"/>
     </td>
     <td style="width:60%">
       <strong>Tummy Time Toy:</strong> A computer vision-based infant motor learning assistant toy (under US Patent review). This interactive toy rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. The primary goal is to study whether babies can learn to control their bodies during tummy time with the toy's assistance, aiding in muscle control and increasing their tolerance for tummy time.
@@ -104,7 +104,7 @@ Demo at NSF DARE'23
   </tr>
   <tr>
     <td style="width:40%">
-      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ASL.jpg" alt="drawing3" height="250" width="500"/>
+      <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ASL.jpg" alt="drawing3" height="200" width="400"/>
     </td>
     <td style="width:60%">
       <strong>American Sign Language:</strong> we present an alphabet translator for American Sign Language (ASL), deploying Convolutional Neural Networks (CNN) and Residual Neural Networks (ResNet) to classify RGB images of ASL alphabet hand gestures. We meticulously tuned hyperparameters to ensure high training accuracy and solid test performance.
