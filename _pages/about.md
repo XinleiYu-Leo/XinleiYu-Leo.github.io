@@ -60,7 +60,7 @@ Demo at NSF DARE'23
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="400" width="450" />
 </td>
 <td style="width:60%">
-<strong>Quest Controlled CrazyFlie Hand Tracking System</strong>
+<strong>Gesture-based Controlled Crazyflie Hand Tracking System</strong>
 <br>
 <a href="https://youtube.com/shorts/QBKCI4z-H1E?feature=share">[Demo Video]</a> <a href="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png">[System Diagram]</a> 
 </td>
