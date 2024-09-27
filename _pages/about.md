@@ -25,7 +25,7 @@ Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco 
 <table>
 <tr>
 <td style="width:40%">
-<img src="https://github.com/XinleiYu-Leo/XinleiYu-Leo.github.io/blob/master/images/crazy_teaser_new.png" alt="teaser" height="200" width="400"/>
+<img src="https://github.com/XinleiYu-Leo/XinleiYu-Leo.github.io/blob/master/images/crazy_teaser_new.png" alt="teaser" height="200" width="700"/>
 </td>
 <td style="width:60%">
 <strong>CrazyJoystick: A Handheld Flyable Joystick for Providing On-Demand Haptic Feedback in Virtual Reality</strong> Submitted to ACM SIGCHI 2025 
