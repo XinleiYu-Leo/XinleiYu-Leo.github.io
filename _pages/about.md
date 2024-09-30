@@ -101,7 +101,7 @@ Demo at NSF DARE'23
 
 <br>
 
-# Past Research Project 
+# Past Research Project (selected)
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ Demo at NSF DARE'23
       <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/electro_diagram.png" alt="drawing2" height="250" width="500"/>
     </td>
     <td style="width:60%">
-      <strong>Multi-armed bandit-based calibration for Electro-tactile Simulation:</strong> Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.
+      <strong>TactileNet: Multi-armed bandit-based calibration for Electro-tactile Simulation:</strong> Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.
       <br><br>
       <a href="https://github.com/xinleiyuUSC/MAB_UCB">[Github(partially available)]</a>
     </td>
