@@ -62,7 +62,6 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 <td style="width:60%">
 <strong>Tummy Time Toy</strong>: An Infant Learning Toy
 <br>
-Demo at NSF DARE'23
 <br><br>
 <strong>Xinlei Yu</strong>, Arya Salgaonkar, Stacey Dusing and Francisco Valero-Cuevas
 <br><br>
