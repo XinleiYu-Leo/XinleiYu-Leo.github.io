@@ -113,7 +113,7 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
       <a href="https://github.com/xinleiyuUSC/MAB_UCB">[Github(partially available)]</a>
     </td>
   </tr>
-  <tr>
+  <!--<tr>
     <td style="width:40%">
       <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png" alt="drawing2" height="200" width="400"/>
     </td>
@@ -122,7 +122,7 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
       <br><br>
       <a href="https://youtu.be/6PznLd5wy5c">[video]</a> [Github(available soon)]
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td style="width:40%">
       <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ASL.jpg" alt="drawing3" height="200" width="400"/>
