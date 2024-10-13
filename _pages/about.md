@@ -11,6 +11,8 @@ Xinlei is a research assistant at the HaVRI Lab, advised by Dr. Heather Culberts
 
 Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco Valero-Cuevas, where he developed a computer vision-based Infant Motor Learning Assistant Toy to study whether babies can learn to control their bodies while on their tummies. Previously, Xinlei graduated from Iowa State University with a B.S. in Computer Engineering in December 2021.
 
+<br>
+<br>
 
 
 
