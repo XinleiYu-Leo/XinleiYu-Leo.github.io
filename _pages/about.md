@@ -16,6 +16,8 @@ Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco 
 
 
 
+# On-going Project
+Working on end-to-end drone-based navigation devices that enable users to navigate in indoor environments with haptic feedback.
 
 <br>
 <br>
