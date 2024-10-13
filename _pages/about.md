@@ -17,8 +17,19 @@ Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco 
 
 
 # On-going Project
-Working on end-to-end drone-based navigation devices that enable users to navigate in indoor environments with haptic feedback.
 
+<table>
+<tr>
+<td style="width:40%">
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/crazy_teaser_new.png" alt="teaser" height="200" width="800"/>
+</td>
+<td style="width:60%">
+Working on end-to-end drone-based navigation devices that enable users to navigate in indoor environments with haptic feedback.  <br>
+The image capture demonstrates real-time object detection from a drone camera*
+<br>
+</td>
+</tr>
+</table>
 <br>
 <br>
 
