@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xinlei is a research assistant at the HaVRI Lab, advised by Dr. Heather Culbertson at the University of Southern California. He recently graduated with an MS in Computer Engineering from the same institution. His research interests include human-computer interaction, haptics, and drones. Currently, he is working on a project that integrates a custom haptic feedback joystick with autonomous drones to enhance user perception and provide intuitive guidance during remote operation.
+Xinlei is a research assistant at the HaVRI Lab, advised by Dr. Heather Culbertson at the University of Southern California. He recently graduated with an MS in Computer Engineering from the same institution. His research interests include human-computer interaction, haptics, and drones.
 
 Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco Valero-Cuevas, where he developed a computer vision-based Infant Motor Learning Assistant Toy to study whether babies can learn to control their bodies while on their tummies. Previously, Xinlei graduated from Iowa State University with a B.S. in Computer Engineering in December 2021.
 
