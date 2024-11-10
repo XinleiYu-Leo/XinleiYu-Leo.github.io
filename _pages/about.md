@@ -20,7 +20,7 @@ Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco 
 <br>
 <br>
 
-# Under Review
+# Submitted Works
 
 <table>
 <tr>
