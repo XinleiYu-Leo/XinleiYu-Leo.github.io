@@ -28,8 +28,8 @@ Currently, I'm starting a contract position as a software engineer at Google's A
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="200" width="800"/>
 </td>
 <td style="width:60%">
-Working on end-to-end wearable navigation devices for blindness or low vision (BLV) that guide users within indoor environments via haptic feedback.  <br>
-SightCap is a head-mounted navigation system designed to help people with BLV navigate their environment. It integrates an RGB-D camera, audio input/output, and edge computing into a wearable device. The system processes environmental data locally to provide real-time mapping, obstacle detection, and voice interaction capabilities while maintaining user privacy.
+Working on end-to-end wearable navigation devices for blindness or low vision (BLV) that guide users within indoor environments via haptic feedback:  <br>
+<strong>SightCap</strong> is a head-mounted navigation system designed to help people with BLV navigate their environment. It integrates an RGB-D camera, audio input/output, and edge computing into a wearable device. The system processes environmental data locally to provide real-time mapping, obstacle detection, and voice interaction capabilities while maintaining user privacy.
 <br>
 </td>
 </tr>
