@@ -11,6 +11,8 @@ Xinlei is a research assistant at the HaVRI Lab, advised by Dr. Heather Culberts
 
 Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco Valero-Cuevas, where he developed a computer vision-based Infant Motor Learning Assistant Toy to study whether babies can learn to control their bodies while on their tummies. Previously, Xinlei graduated from Iowa State University with a B.S. in Computer Engineering in December 2021.
 
+Currently, I'm starting a contract position as a software engineer at Google's Augmented Reality Team. 
+
 <br>
 <br>
 
@@ -26,8 +28,8 @@ Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco 
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="200" width="800"/>
 </td>
 <td style="width:60%">
-Working on end-to-end drone-based navigation devices that enable users to navigate in indoor environments with haptic feedback.  <br>
-The image capture demonstrates real-time object detection from a drone camera*
+Working on end-to-end wearable navigation devices for blindness or low vision (BLV) that guide users within indoor environments via haptic feedback.  <br>
+SightCap is a head-mounted navigation system designed to help people with BLV navigate their environment. It integrates an RGB-D camera, audio input/output, and edge computing into a wearable device. The system processes environmental data locally to provide real-time mapping, obstacle detection, and voice interaction capabilities while maintaining user privacy.
 <br>
 </td>
 </tr>
