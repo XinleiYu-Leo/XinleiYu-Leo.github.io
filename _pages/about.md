@@ -32,7 +32,7 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 <br>
 <br>
 
-# Under Review
+# Publication
 
 <table>
 <tr>
