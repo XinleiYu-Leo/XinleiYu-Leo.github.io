@@ -10,7 +10,9 @@ redirect_from:
 Xinlei (Leo) Yu is an incoming PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). Currently, Xinlei works for [Android XR](https://blog.google/products/android/android-xr/) as a software engineer. Xinlei's research interests include haptics, aerial robots, and perceptions.
 
 Haptics: (I'm interested in) the use of meaningful haptic feedback to augment human perception. I aim to develop systems that deliver supplementary information through touch, enhancing users' decision-making capabilities and their ability to interact with complex environments.
+
 Aerial robots: leveraging advances in SLAM and control to enable robots to navigate and understand the real world. Our research facilitates intuitive human-robot collaboration, allowing these platforms to serve as effective partners in perception, understanding, and action of the world.
+
 Perception: To progress from hard-coded motions to true embodied intelligence, robots must first develop a sophisticated perception of their environment. This requires combining spatial awareness and semantic understanding not only to enable intelligent robotic action but also to augment human knowledge by communicating that unique environmental model back to a user
 
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
