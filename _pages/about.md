@@ -39,6 +39,8 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 <br>
 <br>
 
+**And More**
+
 # Publication
 
 <table>
