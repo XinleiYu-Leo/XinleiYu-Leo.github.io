@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xinlei is a research assistant at the HaVRI Lab, advised by Dr. Heather Culbertson at the University of Southern California. He recently graduated with an MS in Computer Engineering from the same institution. His research interests include human-computer interaction, haptics, and drones.
-
-Before this, he worked in the Brain-Body Dynamics Lab, advised by Dr. Francisco Valero-Cuevas, where he developed a computer vision-based Infant Motor Learning Assistant Toy to study whether babies can learn to control their bodies while on their tummies. Previously, Xinlei graduated from Iowa State University with a B.S. in Computer Engineering in December 2021.
-
-Currently, I'm starting a contract position as a software engineer at Google's Augmented Reality Team. 
+Xinlei (Leo) Yu is an incoming PhD student at University of Southern California, advised by Dr. Heather Culbertson. Currently, Xinlei works for Android XR as a software engineer. Xinlei's research interest includes haptics, ungrounded robots, and perceptions.
 
 <br>
 <br>
@@ -28,8 +24,7 @@ Currently, I'm starting a contract position as a software engineer at Google's A
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="200" width="800"/>
 </td>
 <td style="width:60%">
-Working on end-to-end wearable navigation devices for blindness or low vision (BLV) that guide users within indoor environments via haptic feedback:  <br>
-<strong>SightCap</strong> is a head-mounted navigation system designed to help people with BLV navigate their environment. It integrates an RGB-D camera, audio input/output, and edge computing into a wearable device. The system processes environmental data locally to provide real-time mapping, obstacle detection, and voice interaction capabilities while maintaining user privacy.
+Working on end-to-end wearable navigation with autonomous ungrounded robots that guide users within indoor environments via haptic feedback:  <br>
 <br>
 </td>
 </tr>
@@ -46,7 +41,7 @@ Working on end-to-end wearable navigation devices for blindness or low vision (B
 </td>
 <td style="width:60%">
 <strong>CrazyJoystick: A Handheld Flyable Joystick for Providing On-Demand Haptic Feedback in Virtual Reality</strong> <br>
-Submitted to ACM SIGCHI 2025 
+IEEE World Haptics Conference 2025
 <br><br>
 Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 <br><br>
@@ -56,36 +51,6 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 
 <br>
 <br>
-
-# Research Project 
-
-<table>
-<tr>
-<td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="drawing" height="200" width="400"/>
-</td>
-<td style="width:60%">
-<strong>Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:</strong> Presented at the recent <a href="https://sites.uci.edu/scr2023/schedule/">SCR'23</a>
-<br><br>
-<strong>Xinlei Yu</strong>, Xin Zhu, Xiaopan Zhang and Heather Culbertson
-<br><br>
-<a href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf">[abstract]</a>
-</td>
-</tr>
-<tr>
-<td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg" alt="drawing" height="200" width="400"/>
-</td>
-<td style="width:60%">
-<strong>Tummy Time Toy</strong>: An Infant Learning Toy
-<br>
-<br><br>
-<strong>Xinlei Yu</strong>, Arya Salgaonkar, Stacey Dusing and Francisco Valero-Cuevas
-<br><br>
-<a href="https://youtu.be/6PznLd5wy5c">[Demo Video]</a> <a href="https://youtu.be/JgYYosFgYtE">[Pilot Study Video]</a>
-</td>
-</tr>
-</table>
 
 
 <br>
