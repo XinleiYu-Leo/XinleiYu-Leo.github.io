@@ -19,7 +19,7 @@ Perception: To progress from hard-coded motions to true embodied intelligence, r
 <br>
 <br>
 
-
+I am open and happy to discussing new research projects, innovative ideas, and potential collaborations. Please feel free to contact me at xinleiyu@usc.edu
 
 
 
