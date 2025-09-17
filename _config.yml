@@ -24,9 +24,9 @@ author:
   avatar           : "xinlei.png"
   name             : "Xinlei Yu (Leo)"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer (and incoming CS Phd Student)"
-  location         : "Mountain View, CA"
-  employer         : "Google LLC"
+  bio              : "First Year Phd Student in Computer Science at University of Southern California"
+  location         : "Los Angeles, CA"
+  employer         : #"Google LLC"
   uri              : # URL
   email            : "xinleiyu@usc.edu"  
 
