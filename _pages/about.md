@@ -49,7 +49,7 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 </td>
 <td style="width:60%">
 <strong>CrazyJoystick: A Handheld Flyable Joystick for Providing On-Demand Haptic Feedback in Virtual Reality</strong> <br>
-IEEE World Haptics Conference 2025
+IEEE World Haptics Conference 2025 [video](https://youtu.be/8QuRP5O5Vi8)
 <br><br>
 Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 <br><br>
