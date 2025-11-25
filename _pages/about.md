@@ -40,7 +40,28 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 **And More**
 <br>
 
+
+
+
 # Publication
+
+
+<table>
+<tr>
+<td style="width:40%">
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/testing%20space.png" alt="teaser" height="200" width="800"/>
+</td>
+<td style="width:60%">
+<strong>Propeller-based Handheld Forcefeedback Device for Navigation</strong> <br>
+Submitted to IEEE Transaction of Haptics (Under Review)</a><br><br>
+Xinlei Yu, Yang Chen, and Heather Culbertson
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
 
 <table>
 <tr>
