@@ -28,7 +28,7 @@ I am open and happy to discuss new research projects, innovative ideas, and pote
 <table>
 <tr>
 <td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="200" width="800"/>
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="330" width="588"/>
 </td>
 <td style="width:60%">
 Working on end-to-end wearable navigation with autonomous ungrounded robots that guide users within indoor environments via haptic feedback:  <br>
