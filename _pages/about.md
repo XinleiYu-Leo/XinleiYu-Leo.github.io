@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xinlei (Leo) Yu is a first year PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). Before this, Xinlei worked for [Google's Android XR](https://www.android.com/xr/). Xinlei's research interests include haptics, aerial robots, and perceptions.
+Xinlei (Leo) Yu is a first year PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). Before this, Xinlei worked for [Google's Android XR](https://www.android.com/xr/). Xinlei's research interests center on the intersection of HCI and Robotics, specifically focusing on haptics, aerial and humanoid robots, and robot perception.
 
 
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
