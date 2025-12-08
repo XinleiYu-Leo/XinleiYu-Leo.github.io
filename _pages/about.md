@@ -81,6 +81,18 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 # Fun Project 
 
 <table>
+
+<tr>
+<td style="width:40%">
+<video src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/demo_locomani.mp4" alt="Humanoid Image" height="400" width="450" />
+</td>
+<td style="width:60%">
+<strong>Semantic 3D Perception and VLM-based Planning for Humanoid Loco-Manipulation</strong>
+<br>
+<a href="https://youtube.com/shorts/eDs3b_ALFi0?feature=share">[Demo Video Alternative]</a> 
+</td>
+</tr>
+
 <tr>
 <td style="width:40%">
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/handtrackingDrone.drawio.png" alt="System Image" height="400" width="450" />
