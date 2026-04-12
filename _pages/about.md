@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xinlei (Leo) Yu is a first year PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). Before this, Xinlei worked for [Google's Android XR](https://www.android.com/xr/). Xinlei's research interests center on the intersection of HCI and Robotics, specifically focusing on haptics, aerial and humanoid robots, and robot perception.
+Xinlei (Leo) Yu is a first year PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). Before this, Xinlei worked for [Google's Android XR](https://www.android.com/xr/). Xinlei's research interests center on the intersection of HCI and Robotics, specifically focusing on haptics, aerial and humanoid robots.
 
 
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
@@ -48,7 +48,7 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 </td>
 <td style="width:60%">
 <strong>Propeller-based Handheld Forcefeedback Device for Navigation</strong> <br>
-Submitted to IEEE Transaction of Haptics (Under Review)<br><br>
+Accepted to IEEE Transaction of Haptics<br><br>
 Xinlei Yu, Yang Chen, and Heather Culbertson
 <br><br>
 </td>
