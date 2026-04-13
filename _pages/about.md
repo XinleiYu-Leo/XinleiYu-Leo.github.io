@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Xinlei (Leo) Yu is a first year PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). Before this, Xinlei worked for [Google's Android XR](https://www.android.com/xr/). Xinlei's research interests center on the intersection of HCI and Robotics, specifically focusing on haptics, aerial and humanoid robots.
+My name is Xinlei (Leo) Yu, a first year CS PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I'm working at the intersection of XR, robotics, and embodied interactive systems. My research develops world models and scene representations that bridge human interaction and robotic perception, planning, and action. I am particularly interested in representations that are physically grounded, interactive, and human-aligned—supporting not only prediction and control for embodied agents, but also understandable and usable interaction for people.
 
+Before this, I worked for [Google's Android XR](https://www.android.com/xr/).
 
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
 <br>
@@ -40,6 +41,7 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 
 # Publication
 
+<span style="color: blue;">**One paper submitted to ACM UIST 2026 on haptic interaction in XR via Vision Language model and 3DGS**</span>
 
 <table>
 <tr>
