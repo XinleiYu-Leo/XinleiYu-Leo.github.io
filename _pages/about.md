@@ -21,7 +21,7 @@ I am open and happy to discuss new research projects, innovative ideas, and pote
 
 # Publication
 
-<span style="color: #98AFC7;">**One paper submitted to ACM UIST 2026 on haptic interaction in XR via Vision Language Model and 3DGS**</span>
+<span style="color: #98AFC7;">&#128226; **One paper submitted to ACM UIST 2026 on haptic interaction in XR via Vision Language Model and 3DGS**</span>
 
 <table>
 <tr>
