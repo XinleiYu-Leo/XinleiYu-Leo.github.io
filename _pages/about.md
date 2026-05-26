@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinlei (Leo) Yu, a first year CS PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I'm working at the intersection of XR, robotics, and embodied interactive systems. My research develops world models and scene representations that bridge human interaction and robotic perception, planning, and action. I am particularly interested in representations that are physically grounded, interactive, and human-aligned—supporting not only prediction and control for embodied agents, but also understandable and usable interaction for people.
-
-Before this, I worked for [Google's Android XR](https://www.android.com/xr/).
+My name is Xinlei (Leo) Yu, a first year CS PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I'm also a Student Researcher at Google. I'm working at the intersection of XR, robotics, and embodied AI. My research develops world models and scene representations that bridge human interaction and robotic perception, planning, and action. I am particularly interested in representations that are physically grounded, interactive, and human-aligned—supporting not only prediction and control for embodied agents, but also understandable and usable interaction for people. 
 
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
 <br>
@@ -19,29 +17,11 @@ I am open and happy to discuss new research projects, innovative ideas, and pote
 
 
 
-# On-going Project
-
-<table>
-<tr>
-<td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="330" width="588"/>
-</td>
-<td style="width:60%">
-Working on end-to-end wearable navigation with autonomous ungrounded robots that guide users within indoor environments via haptic feedback:  <br>
-<br>
-</td>
-</tr>
-</table>
-
-**And More**
-<br>
-
-
 
 
 # Publication
 
-<span style="color: blue;">**One paper submitted to ACM UIST 2026 on haptic interaction in XR via Vision Language model and 3DGS**</span>
+<span style="color: #98AFC7;">**One paper submitted to ACM UIST 2026 on haptic interaction in XR via Vision Language Model and 3DGS**</span>
 
 <table>
 <tr>
@@ -80,7 +60,7 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 
 <br>
 
-# Fun Project 
+# Project Playground
 
 <table>
 
@@ -119,7 +99,25 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 
 <br>
 
+# On-going Project
+
+<table>
+<tr>
+<td style="width:40%">
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/object_2.png" alt="teaser" height="330" width="588"/>
+</td>
+<td style="width:60%">
+Working on end-to-end wearable navigation with autonomous ungrounded robots that guide users within indoor environments via haptic feedback:  <br>
+<br>
+</td>
+</tr>
+</table>
+
+**And More**
+<br>
+
 <div style="text-align: center; margin: 20px auto; width: 10%; max-width: 1500px;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yCj_xBos2bfQlyC2i7ySrowuBDzG53DBwh-CAKr3j5E&cl=ffffff&w=a"></script>
 </div>
+
 
