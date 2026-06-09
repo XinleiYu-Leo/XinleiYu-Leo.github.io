@@ -117,7 +117,6 @@ Working on end-to-end wearable navigation with autonomous ungrounded robots that
 <br>
 
 <div style="text-align: center; margin: 20px auto; width: 10%; max-width: 1500px;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yCj_xBos2bfQlyC2i7ySrowuBDzG53DBwh-CAKr3j5E&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=231f1f&w=a&t=n&d=V2qilwDgbwSFWMb_QiOaxYvWJKI5nlsyE2t8jVvBZwA&co=61a1ce&ct=808080&cmo=c68d23&cmn=79b579'></script>
 </div>
-
 
