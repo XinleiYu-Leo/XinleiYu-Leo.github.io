@@ -25,3 +25,24 @@
 .affiliation-google__green {
   color: rgb(52, 168, 83);
 }
+
+/* Keep the affiliation logo separate from the profile's social links. */
+.author__affiliation {
+  margin-top: 16px;
+}
+
+.author__affiliation a {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+}
+
+.author__affiliation img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 1023px) {
+  .author__affiliation a { width: 120px; }
+}

@@ -152,4 +152,11 @@
       {% endif %}      
     </ul>
   </div>
+  {% if author.affiliation_logo %}
+  <div class="author__affiliation">
+    <a href="{{ author.affiliation_url }}">
+      <img src="{{ author.affiliation_logo | relative_url }}" alt="{{ author.affiliation_name | escape }}" width="{{ author.affiliation_logo_width }}" height="{{ author.affiliation_logo_height }}" decoding="async">
+    </a>
+  </div>
+  {% endif %}
 </div>

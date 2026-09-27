@@ -30,6 +30,13 @@ author:
   uri              : # URL
   email            : "xinleiyu@usc.edu"  
 
+  # Affiliation logo displayed beneath the sidebar links
+  affiliation_name        : "University of Southern California (USC)"
+  affiliation_url         : "https://www.usc.edu/"
+  affiliation_logo        : "/images/usc-logo.png"
+  affiliation_logo_width  : 3840
+  affiliation_logo_height : 2160
+
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0ahQ6BgAAAAJ"
