@@ -1,0 +1,147 @@
+# Display order is intentional. Teasers are stored in the repository's images/
+# directory and served with the website through Jekyll's relative_url filter.
+publications:
+  - id: propeller-navigation
+    title: Propeller-based Handheld Forcefeedback Device for Navigation
+    authors:
+      - Xinlei Yu
+      - Yang Chen
+      - Heather Culbertson
+    venue: IEEE Transactions on Haptics 2026
+    image: /images/testing%20space.png
+    image_alt: A participant navigating between waypoints with the propeller-based handheld force feedback device.
+    summary: A handheld, propeller-based device that delivers force feedback for navigation.
+
+  - id: crazyjoystick
+    title: "CrazyJoystick: A Handheld Flyable Joystick for Providing On-Demand Haptic Feedback in Virtual Reality"
+    authors:
+      - Yang Chen*
+      - Xinlei Yu*
+      - Heather Culbertson
+    venue: IEEE World Haptics Conference 2025
+    note: "* Equal contribution"
+    image: /images/crazy_teaser_new.png
+    image_alt: CrazyJoystick flying into a user's hand and providing haptic feedback in virtual reality.
+    summary: A flyable handheld joystick that brings on-demand haptic feedback into virtual reality.
+    links:
+      - label: Video
+        url: https://youtu.be/8QuRP5O5Vi8
+
+under_review:
+  - id: robomemo
+    title: "RoboMemo: Personalized Robot Manipulation from Everyday Smart-Glasses Recordings"
+    authors:
+      - Xinlei Yu
+      - Chen Yang
+      - Andrew Nhu
+      - Bridget Liu
+      - Xiao Yuan
+      - Zhiheng Jia
+      - Heather Culbertson
+    status: Under review
+    venue: ICRA 2027
+    venue_full: IEEE International Conference on Robotics and Automation
+    image: /images/teasers/robomemo.png
+    image_alt: Smart-glasses recordings become a personal context store that helps a robot select the user's red sunglasses and abstain when the user's mug is absent.
+    cover_title: RoboMemo
+    cover_topic: Personalized robot manipulation
+    cover_tone: sage
+    summary: Distills everyday smart-glasses recordings into object descriptions and visual references, helping robots identify a user's intended object—or decline when it is absent—without policy fine-tuning.
+
+  - id: cap2hap
+    title: "Cap2Hap: Contact-Conditioned Vibrotactile Retrieval for Captured 3D Gaussian Scenes"
+    authors:
+      - Xinlei Yu
+      - Zeqing Wang
+      - Haolin Xiong
+      - Heather Culbertson
+    status: Under review
+    venue: IEEE VR 2027
+    venue_full: IEEE Conference on Virtual Reality and 3D User Interfaces
+    image: /images/teasers/cap2hap.png
+    image_alt: RGB video capture becomes a touch-queryable 3D Gaussian scene paired with a haptic library, enabling contact-based vibrotactile retrieval in VR.
+    cover_title: Cap2Hap
+    cover_topic: 3D scenes to haptic feedback
+    cover_tone: blue
+    summary: Retrieves vibrotactile feedback from contact regions in reconstructed 3D Gaussian scenes, without meshes or material labels. Reports 7–11× fewer spurious within-surface haptic changes than screen-space baselines and higher perceptual ratings across three user studies.
+
+  - id: 3dcodeverse
+    title: "3DCodeVerse: 3D Generation via Code"
+    authors:
+      - Yipeng Gao
+      - Ziyao Zeng
+      - Jinfa Huang
+      - Yijiang Li
+      - Haolin Xiong
+      - Wang Qin
+      - Xinlei Yu
+      - Youheng Yao
+      - Jie Zhang
+      - Kun-Yu Lin
+      - Yinyuan Zhao
+      - Jiebo Luo
+      - Yajie Zhao
+      - Lei Shu
+      - Yunhao Ge
+      - Meiqi Guo
+      - Xinyu Hu
+      - Laurent Itti
+    status: Under review
+    venue: ICLR 2027
+    venue_full: International Conference on Learning Representations
+    image: /images/teasers/3dcodeverse.png
+    image_alt: 3DCodeVerse turns reference images and text prompts into executable 3D code, illustrated with generated scenes, graphics, articulated objects, and 3D assets.
+    cover_title: 3DCodeVerse
+    cover_topic: Executable code to 3D worlds
+    cover_tone: lavender
+    summary: Recasts 3D generation as executable code, combining a one-million-sample dataset, an automated multi-agent verification and curation pipeline, and fine-tuned open models for spatial reasoning and 3D creation.
+
+  - id: gaussian-pca-tree
+    title: "Gaussian PCA-Tree: Analytic Hierarchy for Multi-ratio 3DGS Compaction"
+    authors:
+      - Haolin Xiong
+      - Gonglin Chen
+      - Xinlei Yu
+      - Butian Xiong
+      - Yajie Zhao
+    status: Under review
+    image: /images/teasers/pca-tree.png
+    image_alt: A shared Gaussian PCA-Tree hierarchy exports a garden scene at 4, 8, 16, and 32 times compression, with rendering speed, quality, and memory comparisons.
+    cover_title: Gaussian PCA-Tree
+    cover_topic: Compact 3D Gaussian scenes
+    cover_tone: sand
+    summary: Builds an analytic hierarchy for compressing trained 3D Gaussian scenes to different primitive budgets. Enables linear-time extraction without learned importance scores while preserving rendering quality under aggressive compression.
+
+  - id: touchtwin
+    title: "TouchTwin: Human–AI Haptic Authoring for 3D-Scanned Tabletop Scenes through Language and Touch"
+    authors:
+      - Wanli Qian
+      - Xinlei Yu
+      - Heather Culbertson
+    status: Under review
+    venue: CHI 2027
+    venue_full: ACM Conference on Human Factors in Computing Systems
+    image: /images/teasers/touchtwin.png
+    image_alt: TouchTwin captures and reconstructs a tabletop scene, proposes material regions, and supports language corrections and stylus-based haptic comparison with the real scene.
+    cover_title: TouchTwin
+    cover_topic: Haptic authoring through language & touch
+    cover_tone: rose
+    summary: Turns phone scans into editable haptic scenes through a propose–feel–revise loop. In a 12-participant study, language and spatial edits improved realism from 4.0 to 5.6/7 and material-family accuracy from 52% to 92%.
+
+  - id: social-touch-agency
+    title: Shifting from Human Intent to AI Authorship across Three Loci of Agency in Mediated Social Touch
+    authors:
+      - Premankur Banerjee
+      - Xinlei Yu
+      - Kyuhong Lee
+      - Magen Mozeh
+      - Heather Culbertson
+    status: Under review
+    venue: CHI 2027
+    venue_full: ACM Conference on Human Factors in Computing Systems
+    image: /images/teasers/socialtouch.png
+    image_alt: Direct, AI-mediated, and autonomous touch workflows deliver social touch to a person through a wearable haptic interface.
+    cover_title: Social touch
+    cover_topic: Human intent & AI agency
+    cover_tone: teal
+    summary: Examines directly enacted, AI-composed, and AI-authored touch in video calls. Two 24-participant studies distinguish AI's ability to preserve affective intent from the reduced social presence and naturalness associated with autonomous authoring.

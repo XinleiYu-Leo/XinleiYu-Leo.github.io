@@ -1,0 +1,170 @@
+/* Only the two research lists use this grid; the Academic Pages layout stays intact.
+   All paper tracks share 1fr, including across the section heading. With an auto
+   height grid, the longest entry determines their equal height at each viewport. */
+.research-catalogue {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto repeat(var(--published-count), minmax(min-content, 1fr)) auto repeat(var(--review-count), minmax(min-content, 1fr));
+  gap: 16px;
+  margin: 1.5em 0 2.5em;
+}
+
+.page__content .research-catalogue__heading {
+  margin: 1em 0 .3em;
+  padding: 0;
+  border: 0;
+  font-size: 1.563em;
+  scroll-margin-top: 90px;
+}
+
+.research-card {
+  display: grid;
+  grid-template-columns: minmax(0, 29%) minmax(0, 1fr);
+  align-items: center;
+  gap: 22px;
+  padding: 20px;
+  border: 1px solid #e2e4e2;
+  border-radius: 4px;
+  background: #fffefa;
+}
+
+.research-card__media {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 8 / 5;
+  overflow: hidden;
+  border: 1px solid #e5e6e1;
+  border-radius: 3px;
+  background-color: #f3f3ef;
+}
+
+.research-card__image-link {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+.research-card__image-link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: -3px;
+}
+
+.research-card__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  object-fit: contain;
+}
+
+.research-card__body { min-width: 0; }
+
+.page__content .research-card__title {
+  margin: 0 0 10px;
+  font-size: 16px;
+  line-height: 1.4;
+  font-weight: 700;
+  color: #40474b;
+}
+
+.page__content .research-card__authors {
+  margin: 0 0 9px;
+  font-size: 12px;
+  line-height: 1.65;
+  color: #596269;
+}
+
+.research-card__authors strong { color: #3d464c; }
+
+.page__content .research-card__venue {
+  margin: 0 0 11px;
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #48636f;
+}
+
+.research-card__venue abbr { border: 0; text-decoration: none; }
+.research-card__status { color: #6b6656; }
+
+.page__content .research-card__summary {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.65;
+  color: #596168;
+}
+
+.research-card__footer {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.research-card__note { font-size: 11px; color: #667078; }
+.research-card__footer a { padding: 5px 0; text-underline-offset: 3px; }
+
+/* Typographic covers identify work without implying these are paper figures. */
+.research-cover {
+  --cover-ink: #4b6456;
+  background: #eaf0e8;
+}
+
+.research-cover::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("../../images/research-wash.svg") center / cover;
+  opacity: .4;
+}
+
+.research-cover--blue { --cover-ink: #3f6175; background: #e8eff5; }
+.research-cover--lavender { --cover-ink: #66567b; background: #f0eaf5; }
+.research-cover--sand { --cover-ink: #78634a; background: #f4eee1; }
+.research-cover--rose { --cover-ink: #825b5b; background: #f4e9e6; }
+.research-cover--teal { --cover-ink: #3d6a68; background: #e3efed; }
+
+.research-cover__type {
+  position: relative;
+  width: 100%;
+  padding: 18px 12px;
+  text-align: center;
+  color: var(--cover-ink);
+}
+
+.research-cover__title {
+  display: block;
+  font-size: clamp(16px, 1.7vw, 22px);
+  font-weight: 650;
+  line-height: 1.2;
+  letter-spacing: -.4px;
+}
+
+.research-cover__topic {
+  display: block;
+  margin-top: 10px;
+  font-size: 10px;
+  line-height: 1.45;
+}
+
+@media (max-width: 600px) {
+  .research-card {
+    grid-template-columns: minmax(0, 1fr);
+    align-content: start;
+    gap: 18px;
+    padding: 16px;
+  }
+
+  .research-card__media { aspect-ratio: 8 / 5; }
+  .research-cover__title { font-size: 24px; }
+  .research-cover__topic { font-size: 12px; }
+}
+
+@media print {
+  .research-catalogue { display: block; }
+  .research-card { break-inside: avoid; margin-bottom: 16px; }
+}

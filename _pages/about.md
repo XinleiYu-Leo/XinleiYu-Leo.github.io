@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinlei (Leo) Yu, a second year CS PhD student at the University of Southern California, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I'm also a Student Researcher at Google. 
+My name is Xinlei (Leo) Yu, a second year CS PhD student at the <span class="affiliation-usc">University of Southern California</span>, advised by [Dr. Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I'm also a Student Researcher at <span class="affiliation-google"><span class="affiliation-google__blue">G</span><span class="affiliation-google__red">o</span><span class="affiliation-google__yellow">o</span><span class="affiliation-google__blue">g</span><span class="affiliation-google__green">l</span><span class="affiliation-google__red">e</span></span>. I study how human experience can be represented and used to support robot reasoning and action.
 
-I'm working at the intersection of XR, robotics, and physical AI. My research develops models and representations that leverage human knowledge prior for robotic tasks. I am particularly interested in representations that are physically grounded, interactive, and human-aligned—supporting not only prediction and control for embodied agents, but deliver personalized and usable tasks for human. 
+My research asks how robots can use knowledge from people’s everyday experiences to interpret requests and act in the physical world. I develop systems and representations that connect first-person observations, spatial context, and human feedback. My recent work includes personalized robot manipulation from smart-glasses recordings and interactive 3D scene representations for haptic experiences.
+
+Building on this work, I aim to develop structured, executable representations that people can inspect and refine, and that robots can use for reasoning and action. My broader goal is to enable robots to adapt to individual users and unfamiliar situations through experience and interaction.
 
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
 <br>
@@ -21,48 +23,7 @@ I am open and happy to discuss new research projects, innovative ideas, and pote
 
 
 
-# Publication
-<span style="color: #98AFC7;">&#128226; **One paper submitted to IEEE ICRA 2027**</span><br>
-<span style="color: #98AFC7;">&#128226; **Two papers submitted to ACM CHI 2027**</span><br>
-<span style="color: #98AFC7;">&#128226; **One paper submitted to IEEE VR 2027**</span><br>
-<span style="color: #98AFC7;">&#128226; **One paper submitted to WACV 2026**</span>
-
-<table>
-<tr>
-<td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/testing%20space.png" alt="teaser" height="200" width="800"/>
-</td>
-<td style="width:60%">
-<strong>Propeller-based Handheld Forcefeedback Device for Navigation</strong> <br>
-IEEE Transaction of Haptics 2026<br><br>
-Xinlei Yu, Yang Chen, and Heather Culbertson
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<table>
-<tr>
-<td style="width:40%">
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/XinleiYu-Leo.github.io/master/images/crazy_teaser_new.png" alt="teaser" height="200" width="800"/>
-</td>
-<td style="width:60%">
-<strong>CrazyJoystick: A Handheld Flyable Joystick for Providing On-Demand Haptic Feedback in Virtual Reality</strong> <br>
-IEEE World Haptics Conference 2025 <a href="https://youtu.be/8QuRP5O5Vi8">[video]</a><br><br>
-Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
-<br>
-
-
-<br>
+{% include research-list.html %}
 
 # Project Playground
 
@@ -111,4 +72,3 @@ Yang Chen*, <strong>Xinlei Yu*</strong>, and Heather Culbertson
 <div style="text-align: center; margin: 20px auto; width: 10%; max-width: 1500px;">
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=231f1f&w=a&t=n&d=V2qilwDgbwSFWMb_QiOaxYvWJKI5nlsyE2t8jVvBZwA&co=61a1ce&ct=808080&cmo=c68d23&cmn=79b579'></script>
 </div>
-

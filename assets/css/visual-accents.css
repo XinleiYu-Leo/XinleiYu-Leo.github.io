@@ -1,0 +1,36 @@
+/* Small, homepage-only decoration for the original Academic Pages template.
+   Loaded conditionally in head/custom.html; no layout or typography overrides. */
+html,
+body,
+.masthead {
+  background-color: #fcfbf8;
+}
+
+/* Decorative artwork stays out of the document's reading order. */
+.page__content::before {
+  content: "";
+  display: block;
+  height: 76px;
+  margin: 8px 0 24px;
+  border-radius: 3px;
+  background: #eeefea url("../../images/research-wash.svg") center / cover no-repeat;
+  pointer-events: none;
+}
+
+@media (max-width: 600px) {
+  .page__content::before {
+    height: 52px;
+    margin-bottom: 20px;
+  }
+}
+
+@media print {
+  html,
+  body {
+    background: #fff;
+  }
+
+  .page__content::before {
+    display: none;
+  }
+}

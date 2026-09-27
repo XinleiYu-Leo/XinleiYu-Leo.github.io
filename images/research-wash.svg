@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none">
+  <title>Soft spatial study</title>
+  <desc>A decorative wash of muted blue, sage, and warm peach with fine orbital lines.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eeeadd"/>
+      <stop offset=".4" stop-color="#dce7e2"/>
+      <stop offset=".72" stop-color="#dce5ed"/>
+      <stop offset="1" stop-color="#ebe2d9"/>
+    </linearGradient>
+    <radialGradient id="blue">
+      <stop stop-color="#91aebf" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#91aebf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="peach">
+      <stop stop-color="#d8a18a" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#d8a18a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sage">
+      <stop stop-color="#a5b599" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#a5b599" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" stitchTiles="stitch" seed="12"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".16"/></feComponentTransfer>
+      <feBlend in="SourceGraphic" mode="soft-light"/>
+    </filter>
+    <clipPath id="edge"><path d="M0 0h1200v120H0z"/></clipPath>
+  </defs>
+  <g clip-path="url(#edge)">
+    <g filter="url(#grain)">
+      <path d="M0 0h1200v120H0z" fill="url(#paper)"/>
+      <ellipse cx="575" cy="0" rx="390" ry="170" fill="url(#blue)"/>
+      <ellipse cx="850" cy="130" rx="310" ry="156" fill="url(#peach)"/>
+      <ellipse cx="205" cy="160" rx="365" ry="170" fill="url(#sage)"/>
+    </g>
+    <g stroke="#fcfbf8" stroke-width=".8" opacity=".65">
+      <path d="M-30 98C155 12 292 148 466 76S755 9 910 65S1130 99 1240 35"/>
+      <path d="M-30 108C155 22 292 158 466 86S755 19 910 75S1130 109 1240 45"/>
+      <path d="M-30 118C155 32 292 168 466 96S755 29 910 85S1130 119 1240 55"/>
+    </g>
+    <g transform="translate(952 58) rotate(-24)" stroke="#7d9497" stroke-width=".8" opacity=".52">
+      <ellipse rx="64" ry="24"/>
+      <ellipse rx="64" ry="24" transform="rotate(65)"/>
+      <circle r="3" fill="#7d9497" stroke="none"/>
+    </g>
+  </g>
+</svg>

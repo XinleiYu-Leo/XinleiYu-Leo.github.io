@@ -1,0 +1,11 @@
+{% assign research = site.data.research %}
+<div class="research-catalogue" markdown="0" style="--published-count: {{ research.publications.size }}; --review-count: {{ research.under_review.size }};">
+  <h2 class="research-catalogue__heading" id="publications">Publications</h2>
+  {% for publication in research.publications %}
+    {% include research-card.html paper=publication %}
+  {% endfor %}
+  <h2 class="research-catalogue__heading" id="under-review">Under Review</h2>
+  {% for submission in research.under_review %}
+    {% include research-card.html paper=submission %}
+  {% endfor %}
+</div>
