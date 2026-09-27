@@ -1,5 +1,5 @@
 /* Small, homepage-only decoration for the original Academic Pages template.
-   Loaded conditionally in head/custom.html; no layout or typography overrides. */
+   Loaded conditionally in head/custom.html; additions stay within the page content. */
 html,
 body,
 .masthead {
@@ -15,6 +15,29 @@ body,
   border-radius: 3px;
   background: #eeefea url("../../images/research-wash.svg") center / cover no-repeat;
   pointer-events: none;
+}
+
+.research-comic {
+  display: block;
+  width: 100%;
+  max-width: 840px;
+  margin: 1.5em auto;
+}
+
+.research-comic img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.research-comic figcaption {
+  margin: 10px 0 0;
+  text-align: center;
+}
+
+.research-comic__credit {
+  font-size: .85em;
 }
 
 @media (max-width: 600px) {

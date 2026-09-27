@@ -13,6 +13,13 @@ My research asks how robots can use knowledge from people’s everyday experienc
 
 Building on this work, I aim to develop structured, executable representations that people can inspect and refine, and that robots can use for reasoning and action. My broader goal is to enable robots to adapt to individual users and unfamiliar situations through experience and interaction.
 
+<figure class="research-comic" markdown="0">
+  <a href="{{ '/images/comic.png' | relative_url }}" aria-label="View the full-size comic">
+    <img src="{{ '/images/comic.png' | relative_url }}" alt="Three-panel comic: a person asks a robot for coffee; the robot wonders which kind, then brings a cappuccino while the person thinks, 'Maybe next time I'll be more specific.'" width="1536" height="1024" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>How do we address this?</strong> <span class="research-comic__credit">(Image credit by GPT)</span></figcaption>
+</figure>
+
 *I want to extend my heartfelt thanks to the many brilliant colleagues and mentors I've had the pleasure of working with. Their support and guidance—from insightful conversations that sparked new ideas, to their steady direction whenever I felt lost—have been instrumental in my journey, and for that, I am sincerely grateful.*
 <br>
 <br>
